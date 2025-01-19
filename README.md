@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming: directly manipulating the stack without proper consideration of stack frame management. The `bug.asm` file contains code that attempts to add two integers but inadvertently corrupts the stack. The `bugSolution.asm` file presents a corrected version using a more robust approach.
